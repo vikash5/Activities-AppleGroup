@@ -1,2 +1,3 @@
 # Activities-AppleGroup
-Interns activites
+Interns activites  - created on 06 oct 2015.
+
